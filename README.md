@@ -14,7 +14,7 @@ Topic areas of interest:
 
 * Scientific rigour
 
-List of scientific publication: [Google Scholar](https://scholar.google.com.au/citations?user=DALXhJkAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-7688-6974)
+List of scientific publications: [Google Scholar](https://scholar.google.com.au/citations?user=DALXhJkAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-7688-6974)
 
 Contact me: 
 
