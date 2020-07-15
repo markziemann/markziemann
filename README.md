@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Lecturer and researcher in computational biology at Deakin University, Australia. Our group is focused on building data resources and software tools to accelerate biomedical discovery. We work collaborate closely with clinicians and biologists to get the most out of their 'omics experiments. Our lab is committed to reproducibility, open science, and diversity. 
+I am a Lecturer and researcher in computational biology at Deakin University, Australia. Our group is focused on building data resources and software tools to accelerate biomedical discovery. We collaborate closely with clinicians and biologists to get the most out of their 'omics experiments. Our lab is committed to reproducibility, open science, and diversity. 
 
 I code mostly in R and bash. I'm looking to learn more about web design and other languages used for bioinformatics including python.
 
