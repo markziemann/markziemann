@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a Lecturer and researcher in computational biology at Burnet Institute, Australia.
+I am head of Bioinformatics  at Burnet Institute, Australia.
+My group provides bioinformatics support to other researchers at Burnet, and we have our own independent research portfolio.
 Our group is focused on building data resources and software tools to accelerate biomedical discovery.
 We collaborate closely with clinicians and biologists to get the most out of their 'omics experiments. Our lab is committed to reproducibility, open science, and diversity. 
 
